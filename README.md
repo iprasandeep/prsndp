@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms and Full Stack Development.**
 
-- 📝 I regularly write articles on [www.codersgeek.in](www.codersgeek.in)
+- 📝 I regularly write articles on [https://www.codersgeek.in/](https://www.codersgeek.in/)
 
 - 💬 Ask me about **C++,Data Structures & Algorithms,Technical Writing, Computer Science Core Fundamentals and Software Development.**
 
